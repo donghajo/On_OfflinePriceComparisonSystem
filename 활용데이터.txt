@@ -1,0 +1,5 @@
+인천광역시_대형마트 주간 가격조사표 (공공데이터포털)
+https://www.data.go.kr/data/15053081/fileData.do
+
+네이버 쇼핑 API
+https://developers.naver.com/docs/serviceapi/search/shopping/shopping.md
